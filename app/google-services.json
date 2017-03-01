@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "378930938323",
+    "project_id": "fluted-arcadia-160111"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:378930938323:android:8ff0af97f840f9ee",
+        "android_client_info": {
+          "package_name": "com.example.sarath.googlelogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "378930938323-dcktc7f8vfc09hn8lk64l29blpek0sdj.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "378930938323-d8gni2aaihprkpll60ijsvkudabgbu4u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sarath.googlelogin",
+            "certificate_hash": "fc6714d4e7c5c50870aeab8fbc139f4413bf6bc8"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFQdST1W3jmxFAF_giDYiIYmeHT4vw-A4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
